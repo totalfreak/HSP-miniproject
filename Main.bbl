@@ -1,0 +1,32 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Deyin%
+, Feng%
+\BCBL {}\ \BBA {} Yuji%
+}{%
+Deyin%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+vrEngineeringProjects}
+\APACinsertmetastar {%
+vrEngineeringProjects}%
+\begin{APACrefauthors}%
+Deyin, J.%
+, Feng, Y.%
+\BCBL {}\ \BBA {} Yuji, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{11}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Applications of Virtual Reality to Civil and
+  Architectural Engineering Projects} {Applications of virtual reality to civil
+  and architectural engineering projects}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Symposium on Innovation \& Sustainability
+  of Structures in Civil Engineering}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
