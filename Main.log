@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.11.2)  15 NOV 2017 10:20
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.11.2)  16 NOV 2017 10:31
->>>>>>> 8defe5927eef3487bc3a1b0e6a36ba77a392e2c8
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1430,12 +1426,20 @@ File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 Package: ulem 2012/05/18
 \ULdepth=\dimen289
 )
+(/usr/share/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count266
+\bibleftmargin=\skip69
+\bibindent=\skip70
+\bibparsep=\skip71
+\bibitemsep=\skip72
+\biblabelsep=\skip73
+)
 (/usr/share/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip69
-\bibsep=\skip70
+\bibhang=\skip74
+\bibsep=\skip75
 LaTeX Info: Redefining \cite on input line 694.
-<<<<<<< HEAD
 \c@NAT@ctr=\count267
 )
 LaTeX Info: Redefining \BBA on input line 104.
@@ -1459,11 +1463,6 @@ to your \documentclass declaration may fix this.
 Try typing  <return>  to proceed.
 
 ) (/usr/share/texmf-dist/tex/latex/tocbibind/tocbibind.sty
-=======
-\c@NAT@ctr=\count266
-))
-(/usr/share/texmf-dist/tex/latex/tocbibind/tocbibind.sty
->>>>>>> 8defe5927eef3487bc3a1b0e6a36ba77a392e2c8
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
 
@@ -1509,16 +1508,16 @@ Package lastpage Info: Please have a look at the pageslts package at
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count267
+\scratchcounter=\count268
 \scratchdimen=\dimen290
 \scratchbox=\box85
-\nofMPsegments=\count268
-\nofMParguments=\count269
+\nofMPsegments=\count269
+\nofMParguments=\count270
 \everyMPshowfont=\toks49
-\MPscratchCnt=\count270
+\MPscratchCnt=\count271
 \MPscratchDim=\dimen291
-\MPnumerator=\count271
-\makeMPintoPDFobject=\count272
+\MPnumerator=\count272
+\makeMPintoPDFobject=\count273
 \everyMPtoPDFconversion=\toks50
 ) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1542,7 +1541,7 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count273
+\c@lstlisting=\count274
 
 ABD: EveryShipout initializing macros
 *geometry* driver: auto-detecting
@@ -1589,7 +1588,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count274
+\c@section@level=\count275
 )
 LaTeX Info: Redefining \ref on input line 5.
 LaTeX Info: Redefining \pageref on input line 5.
@@ -1606,6 +1605,13 @@ Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+\c@maskedRefs=\count276
+
+(/usr/share/texmf-dist/tex/latex/apacite/english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
 )
 (./include/frontmatter/Titlepage.tex
 *geometry* verbose mode - [ newgeometry ] result:
@@ -1641,12 +1647,12 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<figure/Frontpage/frontpage.png, id=27, 990.70125pt x 471.7625pt>
+<figure/Frontpage/frontpage.png, id=27, 594.22pt x 429.605pt>
 File: figure/Frontpage/frontpage.png Graphic file (type png)
 
 <use figure/Frontpage/frontpage.png>
 Package pdftex.def Info: figure/Frontpage/frontpage.png used on input line 13.
-(pdftex.def)             Requested size: 464.77835pt x 221.32529pt.
+(pdftex.def)             Requested size: 464.77835pt x 336.0345pt.
 LaTeX Font Info:    Try loading font information for T1+phv on input line 19.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/t1phv.fd
@@ -1676,8 +1682,8 @@ Package pdftex.def Info: figure/Frontpage/frontpage-aau.pdf used on input line
 
 
 {/usr/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <./figure/Frontpage/
-frontpage-aau.pdf> <./figure/Frontpage/frontpage.png (PNG copy)>]) (./include/f
-rontmatter/Abstract.tex) (./Main.toc)
+frontpage-aau.pdf> <./figure/Frontpage/frontpage.png>]) (./include/frontmatter/
+Abstract.tex) (./Main.toc)
 \tf@toc=\write9
 \openout9 = `Main.toc'.
 
@@ -1696,16 +1702,13 @@ Chapter 1.
 Chapter 2.
 ) (./Main.bbl [2
 
-]
-
-Package natbib Warning: Empty `thebibliography' environment on input line 8.
-
-) [3
+]) [3
 
 ] [4
 
 
-] (./include/Appendices.tex) 
+] (./include/Appendices.tex)
+
 AED: lastpage setting LastPage
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 49.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 49.
@@ -1718,29 +1721,20 @@ Package natbib Warning: Citation(s) may have changed.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 49.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 49.
 Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: 4A2C085CFAD48FD3DA6DB10383976DAE;228.
+(rerunfilecheck)             Checksum: 42A68EB02290E89FAD38C9771D83BFAE;226.
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
  26325 strings out of 493014
  462881 string characters out of 6122320
  692946 words of memory out of 5000000
  29304 multiletter control sequences out of 15000+600000
  45901 words of font info for 38 fonts, out of 8000000 for 9000
-=======
- 25932 strings out of 493014
- 457622 string characters out of 6122320
- 685339 words of memory out of 5000000
- 28916 multiletter control sequences out of 15000+600000
- 41638 words of font info for 37 fonts, out of 8000000 for 9000
->>>>>>> 8defe5927eef3487bc3a1b0e6a36ba77a392e2c8
  1141 hyphenation exceptions out of 8191
  64i,13n,67p,848b,498s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fo
 nts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.p
 fb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-di
 st/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm
-<<<<<<< HEAD
 /lmr17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/
 texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-dist/fonts/typ
 e1/urw/helvetic/uhvr8a.pfb>
@@ -1749,14 +1743,5 @@ PDF statistics:
  105 PDF objects out of 1000 (max. 8388607)
  84 compressed objects within 1 object stream
  13 named destinations out of 1000 (max. 500000)
-=======
-/lmr17.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/sha
-re/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Main.pdf (6 pages, 1166516 bytes).
-PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
->>>>>>> 8defe5927eef3487bc3a1b0e6a36ba77a392e2c8
  63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
