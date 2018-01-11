@@ -1,32 +1,32 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
-Deyin%
-, Feng%
-\BCBL {}\ \BBA {} Yuji%
-}{%
-Deyin%
+Wang%
 \ \protect \BOthers {.}}{%
-{\protect \APACyear {2007}}%
+Wang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
 }]{%
-vrEngineeringProjects}
+generalVR}
 \APACinsertmetastar {%
-vrEngineeringProjects}%
+generalVR}%
 \begin{APACrefauthors}%
-Deyin, J.%
-, Feng, Y.%
-\BCBL {}\ \BBA {} Yuji, I.%
+Wang, S.%
+, Mao, Z.%
+, Zeng, C.%
+, Gong, H.%
+, Li, S.%
+\BCBL {}\ \BBA {} Chen, B.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2007}{11}{}.
+\APACrefYearMonthDay{2010}{June}{}.
 \newblock
-{\BBOQ}\APACrefatitle {Applications of Virtual Reality to Civil and
-  Architectural Engineering Projects} {Applications of virtual reality to civil
-  and architectural engineering projects}.{\BBCQ}
+{\BBOQ}\APACrefatitle {A new method of virtual reality based on Unity3D} {A new
+  method of virtual reality based on unity3d}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{International Symposium on Innovation \& Sustainability
-  of Structures in Civil Engineering}{}{}{}.
+\BIn{} \APACrefbtitle {2010 18th International Conference on Geoinformatics}
+  {2010 18th international conference on geoinformatics}\ (\BPG~1-5).
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
