@@ -1,3 +1,29 @@
 \begin{thebibliography}{}
 
+\bibitem [\protect \citeauthoryear {%
+Abrams%
+\ \BBA {} Yantis%
+}{%
+Abrams%
+\ \BBA {} Yantis%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+sensationPerception}
+\APACinsertmetastar {%
+sensationPerception}%
+\begin{APACrefauthors}%
+Abrams, R.%
+\BCBT {}\ \BBA {} Yantis, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {Sensation and perception} {Sensation and perception}\
+  (\PrintOrdinal{Second}\ \BEd).
+\newblock
+\APACaddressPublisher{}{Worth Publishers}.
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}
