@@ -1,32 +1,3 @@
 \begin{thebibliography}{}
 
-\bibitem [\protect \citeauthoryear {%
-Wang%
-\ \protect \BOthers {.}}{%
-Wang%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2010}}%
-}]{%
-generalVR}
-\APACinsertmetastar {%
-generalVR}%
-\begin{APACrefauthors}%
-Wang, S.%
-, Mao, Z.%
-, Zeng, C.%
-, Gong, H.%
-, Li, S.%
-\BCBL {}\ \BBA {} Chen, B.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{June}{}.
-\newblock
-{\BBOQ}\APACrefatitle {A new method of virtual reality based on Unity3D} {A new
-  method of virtual reality based on unity3d}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {2010 18th International Conference on Geoinformatics}
-  {2010 18th international conference on geoinformatics}\ (\BPG~1-5).
-\PrintBackRefs{\CurrentBib}
-
 \end{thebibliography}
