@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.12.15)  14 JAN 2018 15:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.12.15)  14 JAN 2018 16:37
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1511,7 +1511,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count276
 )
-LaTeX Info: Redefining \BBA on input line 104.
+LaTeX Info: Redefining \BBA on input line 108.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
@@ -1525,7 +1525,12 @@ runsystem(which pygmentize && touch Main.aex)...executed.
 
 runsystem(rm Main.aex)...executed.
 
- (./Main.aux)
+
+
+LaTeX Warning: Unused global option(s):
+    [paragraph].
+
+(./Main.aux)
 \openout1 = `Main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -1698,7 +1703,7 @@ LaTeX Info: Redefining \BHBI on input line 130.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<figure/Frontpage/frontpage.png, id=54, 594.22pt x 429.605pt>
+<figure/Frontpage/frontpage.png, id=110, 594.22pt x 429.605pt>
 File: figure/Frontpage/frontpage.png Graphic file (type png)
 <use figure/Frontpage/frontpage.png>
 Package pdftex.def Info: figure/Frontpage/frontpage.png  used on input line 13.
@@ -1718,8 +1723,8 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 28.
-<figure/Frontpage/frontpage-aau.pdf, id=57, pagebox=cropbox, 2489.21962pt x 352
-0.99449pt>
+<figure/Frontpage/frontpage-aau.pdf, id=113, pagebox=cropbox, 2489.21962pt x 35
+20.99449pt>
 File: figure/Frontpage/frontpage-aau.pdf Graphic file (type pdf)
 <use figure/Frontpage/frontpage-aau.pdf>
 Package pdftex.def Info: figure/Frontpage/frontpage-aau.pdf  used on input line
@@ -1777,31 +1782,38 @@ been already used, duplicate ignored
                    \relax 
 l.16 \newpage
               [1] (./include/Indledning.tex) (./include/Analyse.tex
-<figure/depthcues.png, id=90, 1244.65pt x 963.6pt>
+<figure/depthcues.png, id=160, 1244.65pt x 963.6pt>
 File: figure/depthcues.png Graphic file (type png)
 <use figure/depthcues.png>
 Package pdftex.def Info: figure/depthcues.png  used on input line 5. on input l
 ine 5.
 Package pdftex.def Info: Requested size: 426.79135pt x 330.4133pt on input line
  5.
- [1 <./figure/depthcues.png>]) (./include/backmatter/Konklusion.tex) (./Main.bb
-l)
+ [1 <./figure/depthcues.png>] [2]) (./include/backmatter/Konklusion.tex) (./Mai
+n.bbl)
 
 AED: lastpage setting LastPage
-[2]
+[3]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 49.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 49.
  (./Main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 49.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 49.
-Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: 2A75F6EF5355366F36688CDC9FF0CEA4;685.
+
+
+Package rerunfilecheck Warning: File `Main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Main.out':
+(rerunfilecheck)             Before: 0BADD538A3350010A7E02409613E0DEB;1765
+(rerunfilecheck)             After:  FE151C0E7E2918F87036B15B9D1A1876;1891.
  ) 
 Here is how much of TeX's memory you used:
- 26762 strings out of 494931
- 479290 string characters out of 6180850
- 713407 words of memory out of 5000000
- 29463 multiletter control sequences out of 15000+600000
+ 26800 strings out of 494931
+ 479957 string characters out of 6180850
+ 716418 words of memory out of 5000000
+ 29485 multiletter control sequences out of 15000+600000
  57806 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  64i,13n,77p,873b,494s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1811,10 +1823,10 @@ Here is how much of TeX's memory you used:
 e1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Main.pdf (4 pages, 874269 bytes).
+Output written on Main.pdf (5 pages, 883256 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
- 17 named destinations out of 1000 (max. 500000)
- 124 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 216 PDF objects out of 1000 (max. 8388607)
+ 192 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 236 words of extra memory for PDF output out of 10000 (max. 10000000)
 
