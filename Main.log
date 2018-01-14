@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.12.19)  11 JAN 2018 16:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.12.15)  14 JAN 2018 15:07
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -6,20 +6,19 @@ entering extended mode
 (./Main.tex
 LaTeX2e <2017-04-15>
 Babel <3.12> and hyphenation patterns for 3 language(s) loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
-Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
-\c@chapter=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
@@ -41,9 +40,9 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks15
 \verbatim@in@stream=\read1
 )
-\tab@position=\count88
-\tab@size=\count89
-\listing@line=\count90
+\tab@position=\count87
+\tab@size=\count88
+\listing@line=\count89
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
@@ -191,7 +190,7 @@ File: babel.def 2017/06/29 3.12 Babel common definitions
 (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
 File: switch.def 2017/06/29 3.12 Babel switching mechanism
 )
-\babel@savecnt=\count91
+\babel@savecnt=\count90
 \U@D=\dimen103
 )
 \l@british = a dialect from \language\l@english 
@@ -613,13 +612,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count92
+\inf@bad=\count91
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count93
-\leftroot@=\count94
+\uproot@=\count92
+\leftroot@=\count93
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count95
-\DOTSCASE@=\count96
+\classnum@=\count94
+\DOTSCASE@=\count95
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
@@ -628,15 +627,15 @@ LaTeX Info: Redefining \cdots on input line 596.
 \big@size=\dimen106
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count97
-\c@MaxMatrixCols=\count98
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
 \dotsspace@=\muskip11
-\c@parentequation=\count99
-\dspbrk@lvl=\count100
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
 \tag@help=\toks20
-\row@=\count101
-\column@=\count102
-\maxfields@=\count103
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
 \andhelp@=\toks21
 \eqnshift@=\dimen107
 \alignsep@=\dimen108
@@ -698,40 +697,40 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen120
 \caption@hangindent=\dimen121
 )
-\c@ContinuedFloat=\count104
+\c@ContinuedFloat=\count103
 )
-\c@KVtest=\count105
+\c@KVtest=\count104
 \sf@farskip=\skip46
 \sf@captopadj=\dimen122
 \sf@capskip=\skip47
 \sf@nearskip=\skip48
-\c@subfigure=\count106
-\c@subfigure@save=\count107
-\c@lofdepth=\count108
-\c@subtable=\count109
-\c@subtable@save=\count110
-\c@lotdepth=\count111
+\c@subfigure=\count105
+\c@subfigure@save=\count106
+\c@lofdepth=\count107
+\c@subtable=\count108
+\c@subtable@save=\count109
+\c@lotdepth=\count110
 \sf@top=\skip49
 \sf@bottom=\skip50
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count112
+\lst@mode=\count111
 \lst@gtempboxa=\box28
 \lst@token=\toks24
-\lst@length=\count113
+\lst@length=\count112
 \lst@currlwidth=\dimen123
-\lst@column=\count114
-\lst@pos=\count115
+\lst@column=\count113
+\lst@pos=\count114
 \lst@lostspace=\dimen124
 \lst@width=\dimen125
-\lst@newlines=\count116
-\lst@lineno=\count117
+\lst@newlines=\count115
+\lst@lineno=\count116
 \lst@maxwidth=\dimen126
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count118
-\lst@skipnumbers=\count119
+\c@lstnumber=\count117
+\lst@skipnumbers=\count118
 \lst@framebox=\box29
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
@@ -782,10 +781,10 @@ ex
 \pgf@yc=\dimen136
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count120
-\c@pgf@countb=\count121
-\c@pgf@countc=\count122
-\c@pgf@countd=\count123
+\c@pgf@counta=\count119
+\c@pgf@countb=\count120
+\c@pgf@countc=\count121
+\c@pgf@countd=\count122
 \t@pgf@toka=\toks29
 \t@pgf@tokb=\toks30
 \t@pgf@tokc=\toks31
@@ -804,8 +803,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
 tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count124
-\pgfsyssoftpath@bigbuffer@items=\count125
+\pgfsyssoftpath@smallbuffer@items=\count123
+\pgfsyssoftpath@bigbuffer@items=\count124
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
 tex
@@ -835,7 +834,7 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen137
-\pgfmath@count=\count126
+\pgfmath@count=\count125
 \pgfmath@box=\box31
 \pgfmath@toks=\toks32
 \pgfmath@stack@operand=\toks33
@@ -859,7 +858,7 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count127
+\c@pgfmathroundto@lastzeros=\count126
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
 x
@@ -897,7 +896,7 @@ File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box32
 \pgf@hbox=\box33
 \pgf@layerbox@main=\box34
-\pgf@picture@serial@count=\count128
+\pgf@picture@serial@count=\count127
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
@@ -930,7 +929,7 @@ File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen161
-\pgf@sys@shading@range@num=\count129
+\pgf@sys@shading@range@num=\count128
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
@@ -987,7 +986,7 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count130
+\pgf@plot@mark@count=\count129
 \pgfplotmarksize=\dimen166
 )
 \tikz@lastx=\dimen167
@@ -1000,18 +999,18 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikz@figbox@bg=\box38
 \tikz@tempbox=\box39
 \tikz@tempbox@bg=\box40
-\tikztreelevel=\count131
-\tikznumberofchildren=\count132
-\tikznumberofcurrentchild=\count133
-\tikz@fig@count=\count134
+\tikztreelevel=\count130
+\tikznumberofchildren=\count131
+\tikznumberofcurrentchild=\count132
+\tikz@fig@count=\count133
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count135
-\pgfmatrixcurrentcolumn=\count136
-\pgf@matrix@numberofcolumns=\count137
+\pgfmatrixcurrentrow=\count134
+\pgfmatrixcurrentcolumn=\count135
+\pgf@matrix@numberofcolumns=\count136
 )
-\tikz@expandcount=\count138
+\tikz@expandcount=\count137
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
@@ -1026,17 +1025,17 @@ File: pgflibraryarrows.meta.code.tex 2015/05/13 v3.0.1a (rcs-revision 1.13)
 \pgfarrowwidth=\dimen175
 \pgfarrowlinewidth=\dimen176
 )
-\CF@cnt@atomingroup=\count139
-\CF@cnt@groupnumber=\count140
-\CF@cnt@atomnumber=\count141
-\CF@cnt@cycle=\count142
+\CF@cnt@atomingroup=\count138
+\CF@cnt@groupnumber=\count139
+\CF@cnt@atomnumber=\count140
+\CF@cnt@cycle=\count141
 \CF@dim=\dimen177
 \CF@lewis@box=\box41
 \CF@box@boxa=\box42
 \CF@box@boxb=\box43
 \CF@stuff@box=\box44
 \CF@unused=\write4
-\CF@compound@cnt=\count143
+\CF@compound@cnt=\count142
 \CF@arrow@size=\dimen178
 )
 Package: chemfig 2017/05/20 v1.2e Draw molecule with an easy syntax
@@ -1053,9 +1052,9 @@ Package ifvtex Info: VTeX not detected.
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count144
-\Gm@cntv=\count145
-\c@Gm@tempcnt=\count146
+\Gm@cnth=\count143
+\Gm@cntv=\count144
+\c@Gm@tempcnt=\count145
 \Gm@bindingoffset=\dimen179
 \Gm@wd@mp=\dimen180
 \Gm@odd@mp=\dimen181
@@ -1080,7 +1079,7 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count147
+\c@float@type=\count146
 \float@exts=\toks38
 \float@box=\box45
 \@float@everytoks=\toks39
@@ -1119,18 +1118,18 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count148
+\etb@tempcnta=\count147
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2008/02/07
 
 Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
 <2008/02/07> (tvz)
-\FV@CodeLineNo=\count149
+\FV@CodeLineNo=\count148
 \FV@InFile=\read3
 \FV@TabBox=\box47
-\c@FancyVerbLine=\count150
-\FV@StepNumber=\count151
+\c@FancyVerbLine=\count149
+\FV@StepNumber=\count150
 \FV@OutFile=\write5
 )
 (/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
@@ -1139,55 +1138,55 @@ tim
 )
 (/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
-\linenopenalty=\count152
+\linenopenalty=\count151
 \output=\toks40
-\linenoprevgraf=\count153
+\linenoprevgraf=\count152
 \linenumbersep=\dimen187
 \linenumberwidth=\dimen188
-\c@linenumber=\count154
-\c@pagewiselinenumber=\count155
-\c@LN@truepage=\count156
-\c@internallinenumber=\count157
-\c@internallinenumbers=\count158
+\c@linenumber=\count153
+\c@pagewiselinenumber=\count154
+\c@LN@truepage=\count155
+\c@internallinenumber=\count156
+\c@internallinenumbers=\count157
 \quotelinenumbersep=\dimen189
 \bframerule=\dimen190
 \bframesep=\dimen191
 \bframebox=\box48
 LaTeX Info: Redefining \\ on input line 3056.
 )
-\c@FV@TrueTabGroupLevel=\count159
-\c@FV@TrueTabCounter=\count160
+\c@FV@TrueTabGroupLevel=\count158
+\c@FV@TrueTabCounter=\count159
 \FV@TabBox@Group=\box49
 \FV@TmpLength=\skip51
-\c@FV@HighlightLinesStart=\count161
-\c@FV@HighlightLinesStop=\count162
-\FV@LoopCount=\count163
+\c@FV@HighlightLinesStart=\count160
+\c@FV@HighlightLinesStop=\count161
+\FV@LoopCount=\count162
 \FV@NCharsBox=\box50
 \FV@BreakIndent=\dimen192
-\FV@BreakIndentNChars=\count164
+\FV@BreakIndentNChars=\count163
 \FV@BreakSymbolSepLeft=\dimen193
-\FV@BreakSymbolSepLeftNChars=\count165
+\FV@BreakSymbolSepLeftNChars=\count164
 \FV@BreakSymbolSepRight=\dimen194
-\FV@BreakSymbolSepRightNChars=\count166
+\FV@BreakSymbolSepRightNChars=\count165
 \FV@BreakSymbolIndentLeft=\dimen195
-\FV@BreakSymbolIndentLeftNChars=\count167
+\FV@BreakSymbolIndentLeftNChars=\count166
 \FV@BreakSymbolIndentRight=\dimen196
-\FV@BreakSymbolIndentRightNChars=\count168
-\c@FancyVerbLineBreakLast=\count169
+\FV@BreakSymbolIndentRightNChars=\count167
+\c@FancyVerbLineBreakLast=\count168
 \FV@LineBox=\box51
 \FV@LineIndentBox=\box52
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count170
-\calc@Bcount=\count171
+\calc@Acount=\count169
+\calc@Bcount=\count170
 \calc@Adimen=\dimen197
 \calc@Bdimen=\dimen198
 \calc@Askip=\skip52
 \calc@Bskip=\skip53
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count172
+\calc@Ccount=\count171
 \calc@Cskip=\skip54
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
@@ -1216,8 +1215,8 @@ runsystem(rm -- "Main.w18")...executed.
 ) (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
 (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
 \@xs@message=\write6
-\integerpart=\count173
-\decimalpart=\count174
+\integerpart=\count172
+\decimalpart=\count173
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
@@ -1232,10 +1231,10 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \minted@appexistsfile=\read4
 \minted@bgbox=\box53
 \minted@code=\write7
-\c@minted@FancyVerbLineTemp=\count175
-\c@minted@pygmentizecounter=\count176
+\c@minted@FancyVerbLineTemp=\count174
+\c@minted@pygmentizecounter=\count175
 \@float@every@listing=\toks41
-\c@listing=\count177
+\c@listing=\count176
 )
 runsystem(mkdir -p _minted-Main)...executed.
 
@@ -1252,10 +1251,10 @@ Package: dirtree 2012/12/11 v0.32 package wrapper for dirtree
 \DT@rulewidth=\dimen263
 \DT@dotwidth=\dimen264
 \DTbaselineskip=\dimen265
-\DT@counti=\count178
-\DT@countii=\count179
-\DT@countiii=\count180
-\DT@countiv=\count181
+\DT@counti=\count177
+\DT@countii=\count178
+\DT@countiii=\count179
+\DT@countiv=\count180
 \DT@indent=\dimen266
 \DT@parskip=\dimen267
 \DT@baselineskip=\dimen268
@@ -1264,14 +1263,14 @@ File: dirtree.tex 2012/12/11 v0.32 `dirtree' (jcc)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
-\c@@pps=\count182
-\c@@ppsavesec=\count183
-\c@@ppsaveapp=\count184
+\c@@pps=\count181
+\c@@ppsavesec=\count182
+\c@@ppsaveapp=\count183
 )
 (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen269
 \WF@size=\dimen270
-\c@WF@wrappedlines=\count185
+\c@WF@wrappedlines=\count184
 \WF@box=\box54
 \WF@everypar=\toks42
 Package: wrapfig 2003/01/31  v 3.6
@@ -1315,15 +1314,15 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen271
-\Hy@linkcounter=\count186
-\Hy@pagecounter=\count187
+\Hy@linkcounter=\count185
+\Hy@pagecounter=\count186
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count188
+\Hy@SavedSpaceFactor=\count187
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -1335,10 +1334,10 @@ Package hyperref Info: Plain pages OFF on input line 4513.
 Package hyperref Info: Backreferencing OFF on input line 4518.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4751.
-\c@Hy@tempcnt=\count189
+\c@Hy@tempcnt=\count188
 LaTeX Info: Redefining \url on input line 5104.
 \XeTeXLinkMargin=\dimen272
-\Fld@menulength=\count190
+\Fld@menulength=\count189
 \Field@Width=\dimen273
 \Fld@charsize=\dimen274
 Package hyperref Info: Hyper figures OFF on input line 6358.
@@ -1350,17 +1349,17 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6383.
 Package hyperref Info: PDF/A mode OFF on input line 6388.
 LaTeX Info: Redefining \ref on input line 6428.
 LaTeX Info: Redefining \pageref on input line 6432.
-\Hy@abspage=\count191
-\c@Item=\count192
-\c@Hfootnote=\count193
+\Hy@abspage=\count190
+\c@Item=\count191
+\c@Hfootnote=\count192
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
-\Fld@listcount=\count194
-\c@bookmark@seq@number=\count195
+\Fld@listcount=\count193
+\c@bookmark@seq@number=\count194
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
@@ -1407,23 +1406,23 @@ File: pppdftex.def 2017/07/14 v0.5j Pdfpages driver for pdfTeX (AM)
 \AM@pagebox=\box56
 \AM@global@opts=\toks44
 \AM@toc@title=\toks45
-\c@AM@survey=\count196
+\c@AM@survey=\count195
 \AM@templatesizebox=\box57
 )
 (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count197
+\c@lips@count=\count196
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
-\c@tracingmulticols=\count198
+\c@tracingmulticols=\count197
 \mult@box=\box58
 \multicol@leftmargin=\dimen282
-\c@unbalance=\count199
-\c@collectmore=\count266
-\doublecol@number=\count267
-\multicoltolerance=\count268
-\multicolpretolerance=\count269
+\c@unbalance=\count198
+\c@collectmore=\count199
+\doublecol@number=\count266
+\multicoltolerance=\count267
+\multicolpretolerance=\count268
 \full@width=\dimen283
 \page@free=\dimen284
 \premulticols=\dimen285
@@ -1454,14 +1453,14 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \@tempa=\box79
 \@tempa=\box80
 \@tempa=\box81
-\c@columnbadness=\count270
-\c@finalcolumnbadness=\count271
+\c@columnbadness=\count269
+\c@finalcolumnbadness=\count270
 \last@try=\dimen288
 \multicolovershoot=\dimen289
 \multicolundershoot=\dimen290
 \mult@nat@firstbox=\box82
 \colbreak@box=\box83
-\mc@col@check@num=\count272
+\mc@col@check@num=\count271
 )
 (/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty
 Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
@@ -1475,14 +1474,14 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks46
 \XKV@tempa@toks=\toks47
 )
-\XKV@depth=\count273
+\XKV@depth=\count272
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 )
-\c@@todonotes@numberoftodonotes=\count274
+\c@@todonotes@numberoftodonotes=\count273
 )
 (/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box84
@@ -1490,7 +1489,7 @@ File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 \UL@skip=\skip70
 \UL@hook=\toks48
 \UL@height=\dimen291
-\UL@pe=\count275
+\UL@pe=\count274
 \UL@pixel=\dimen292
 \ULC@box=\box86
 Package: ulem 2012/05/18
@@ -1498,7 +1497,7 @@ Package: ulem 2012/05/18
 )
 (/usr/share/texlive/texmf-dist/tex/latex/apacite/apacite.sty
 Package: apacite 2013/07/21 v6.03 APA citation
-\c@BibCnt=\count276
+\c@BibCnt=\count275
 \bibleftmargin=\skip71
 \bibindent=\skip72
 \bibparsep=\skip73
@@ -1510,16 +1509,16 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip76
 \bibsep=\skip77
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count277
+\c@NAT@ctr=\count276
 )
 LaTeX Info: Redefining \BBA on input line 104.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
-Package tocbibind Info: The document has chapter divisions on input line 50.
+Package tocbibind Info: The document has section divisions on input line 50.
 
 
-Package tocbibind Note: Using chapter style headings, unless overridden.
+Package tocbibind Note: Using section or other style headings.
 
 )
 runsystem(which pygmentize && touch Main.aex)...executed.
@@ -1560,16 +1559,16 @@ Package lastpage Info: Please have a look at the pageslts package at
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count278
+\scratchcounter=\count277
 \scratchdimen=\dimen294
 \scratchbox=\box87
-\nofMPsegments=\count279
-\nofMParguments=\count280
+\nofMPsegments=\count278
+\nofMParguments=\count279
 \everyMPshowfont=\toks49
-\MPscratchCnt=\count281
+\MPscratchCnt=\count280
 \MPscratchDim=\dimen295
-\MPnumerator=\count282
-\makeMPintoPDFobject=\count283
+\MPnumerator=\count281
+\makeMPintoPDFobject=\count282
 \everyMPtoPDFconversion=\toks50
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1595,7 +1594,7 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count284
+\c@lstlisting=\count283
 
 ABD: EveryShipout initializing macros
 *geometry* driver: auto-detecting
@@ -1640,7 +1639,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count285
+\c@section@level=\count284
 )
 LaTeX Info: Redefining \ref on input line 5.
 LaTeX Info: Redefining \pageref on input line 5.
@@ -1659,7 +1658,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-\c@maskedRefs=\count286
+\c@maskedRefs=\count285
 
 (/usr/share/texlive/texmf-dist/tex/latex/apacite/english.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
@@ -1699,7 +1698,7 @@ LaTeX Info: Redefining \BHBI on input line 130.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<figure/Frontpage/frontpage.png, id=55, 594.22pt x 429.605pt>
+<figure/Frontpage/frontpage.png, id=54, 594.22pt x 429.605pt>
 File: figure/Frontpage/frontpage.png Graphic file (type png)
 <use figure/Frontpage/frontpage.png>
 Package pdftex.def Info: figure/Frontpage/frontpage.png  used on input line 13.
@@ -1719,7 +1718,7 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 28.
-<figure/Frontpage/frontpage-aau.pdf, id=58, pagebox=cropbox, 2489.21962pt x 352
+<figure/Frontpage/frontpage-aau.pdf, id=57, pagebox=cropbox, 2489.21962pt x 352
 0.99449pt>
 File: figure/Frontpage/frontpage-aau.pdf Graphic file (type pdf)
 <use figure/Frontpage/frontpage-aau.pdf>
@@ -1777,63 +1776,45 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.16 \newpage
-              [1
-
-] (./include/Indledning.tex
-Chapter 1.
-) (./include/Analyse.tex [1
-
-]
-Chapter 2.
-<figure/depthcues.png, id=98, 1244.65pt x 963.6pt>
+              [1] (./include/Indledning.tex) (./include/Analyse.tex
+<figure/depthcues.png, id=90, 1244.65pt x 963.6pt>
 File: figure/depthcues.png Graphic file (type png)
 <use figure/depthcues.png>
 Package pdftex.def Info: figure/depthcues.png  used on input line 5. on input l
 ine 5.
 Package pdftex.def Info: Requested size: 426.79135pt x 330.4133pt on input line
  5.
-[2
+ [1 <./figure/depthcues.png>]) (./include/backmatter/Konklusion.tex) (./Main.bb
+l)
 
- <./figure/depthcues.png>]) (./include/backmatter/Konklusion.tex [3]
-Chapter 3.
-[4
-
-]
-Chapter 4.
-) (./Main.bbl [5
-
-]) 
 AED: lastpage setting LastPage
-[6
-
-]
+[2]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 49.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 49.
  (./Main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 49.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 49.
 Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: 93C8613BD0E7BAECB8394FD57EAB572E;653.
+(rerunfilecheck)             Checksum: 2A75F6EF5355366F36688CDC9FF0CEA4;685.
  ) 
 Here is how much of TeX's memory you used:
- 26779 strings out of 494931
- 479384 string characters out of 6180850
- 714005 words of memory out of 5000000
- 29473 multiletter control sequences out of 15000+600000
- 69832 words of font info for 57 fonts, out of 8000000 for 9000
+ 26762 strings out of 494931
+ 479290 string characters out of 6180850
+ 713407 words of memory out of 5000000
+ 29463 multiletter control sequences out of 15000+600000
+ 57806 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  64i,13n,77p,873b,494s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texlive/texmf-dist
 /fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/typ
-e1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/
-share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
-/helvetic/uhvr8a.pfb>
-Output written on Main.pdf (8 pages, 896921 bytes).
+e1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on Main.pdf (4 pages, 874269 bytes).
 PDF statistics:
- 162 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
- 23 named destinations out of 1000 (max. 500000)
+ 137 PDF objects out of 1000 (max. 8388607)
+ 114 compressed objects within 2 object streams
+ 17 named destinations out of 1000 (max. 500000)
  124 words of extra memory for PDF output out of 10000 (max. 10000000)
 

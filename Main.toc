@@ -1,13 +1,13 @@
 \select@language {english}
-\contentsline {chapter}{Contents}{i}{chapter*.2}
-\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
-\contentsline {chapter}{\numberline {2}Theory}{2}{chapter.2}
-\contentsline {section}{\numberline {2.1}Oculomotor cues}{2}{section.2.1}
-\contentsline {section}{\numberline {2.2}Retinal image cues}{3}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Static cues}{3}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Dynamic cues}{3}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Stereopsis}{3}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}binocular disparity}{3}{subsection.2.3.1}
-\contentsline {chapter}{\numberline {3}Discussion}{4}{chapter.3}
-\contentsline {chapter}{\numberline {4}Conclusion}{5}{chapter.4}
-\contentsline {chapter}{References}{6}{chapter*.4}
+\contentsline {section}{Contents}{i}{figure.caption.1}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Theory}{1}{section.2}
+\contentsline {subsection}{\numberline {2.1}Oculomotor cues}{1}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Retinal image cues}{1}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Static cues}{2}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Dynamic cues}{2}{subsubsection.2.2.2}
+\contentsline {subsection}{\numberline {2.3}Stereopsis}{2}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}binocular disparity}{2}{subsubsection.2.3.1}
+\contentsline {section}{\numberline {3}Discussion}{2}{section.3}
+\contentsline {section}{\numberline {4}Conclusion}{2}{section.4}
+\contentsline {section}{References}{2}{section.4}
