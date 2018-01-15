@@ -26,4 +26,112 @@ Abrams, R.%
 \APACaddressPublisher{}{Worth Publishers}.
 \PrintBackRefs{\CurrentBib}
 
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Atmospheric perspective}}{%
+\APACcitebtitle {Atmospheric perspective}}{%
+{\protect \APACyear {2016}}%
+}]{%
+atmoshpericPerspective}
+\APACinsertmetastar {%
+atmoshpericPerspective}%
+\APACrefbtitle {Atmospheric perspective.} {Atmospheric perspective.}
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACaddressPublisher{}{Encyclopædia Britannica}.
+\newblock
+\begin{APACrefURL} \url{https://www.britannica.com/art/aerial-perspective}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{Online; accessed 15-January-2018}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Krantz%
+}{%
+Krantz%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+relativeHeight}
+\APACinsertmetastar {%
+relativeHeight}%
+\begin{APACrefauthors}%
+Krantz, J\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+\APACrefbtitle {Relative Height.} {Relative height.}
+\newblock
+\begin{APACrefURL} \url{https://psych.hanover.edu/krantz/art/rel_hgt.html}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{Online; accessed 15-January-2018}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mon-Williams%
+\ \BBA {} Tresilian%
+}{%
+Mon-Williams%
+\ \BBA {} Tresilian%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+accommodation}
+\APACinsertmetastar {%
+accommodation}%
+\begin{APACrefauthors}%
+Mon-Williams, M.%
+\BCBT {}\ \BBA {} Tresilian, J\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Ordinal depth information from accommodation?} {Ordinal
+  depth information from accommodation?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Ergonomics}{43}{3}{}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1080/001401300184486}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{PMID: 10755661}
+\newblock
+\begin{APACrefDOI} \doi{10.1080/001401300184486} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wikipedia%
+\ \BBA {} contributors%
+}{%
+Wikipedia%
+\ \BBA {} contributors%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+wikiaccommodation}
+\APACinsertmetastar {%
+wikiaccommodation}%
+\begin{APACrefauthors}%
+Wikipedia%
+\BCBT {}\ \BBA {} contributors.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+\APACrefbtitle {Accommodation (eye) --- Wikipedia{,} The Free Encyclopedia.}
+  {Accommodation (eye) --- wikipedia{,} the free encyclopedia.}
+\newblock
+\begin{APACrefURL}
+  \url{https://en.wikipedia.org/w/index.php?title=Accommodation_(eye)}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{Online; accessed 15-January-2018}
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}

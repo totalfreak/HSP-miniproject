@@ -13,44 +13,44 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: include/backmatter/bibliography.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 1 entry,
+You've used 5 entries,
             6951 wiz_defined-function locations,
-            1275 strings with 10787 characters,
-and the built_in function-call counts, 1492 in all, are:
-= -- 181
-> -- 14
-< -- 44
-+ -- 43
-- -- 2
-* -- 83
-:= -- 259
-add.period$ -- 4
-call.type$ -- 1
-change.case$ -- 17
+            1302 strings with 11442 characters,
+and the built_in function-call counts, 7277 in all, are:
+= -- 913
+> -- 52
+< -- 247
++ -- 240
+- -- 12
+* -- 419
+:= -- 1186
+add.period$ -- 20
+call.type$ -- 5
+change.case$ -- 84
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 47
-empty$ -- 79
-format.name$ -- 24
-if$ -- 307
+cite$ -- 10
+duplicate$ -- 196
+empty$ -- 392
+format.name$ -- 86
+if$ -- 1515
 int.to.chr$ -- 0
-int.to.str$ -- 3
+int.to.str$ -- 15
 missing$ -- 0
-newline$ -- 28
-num.names$ -- 8
-pop$ -- 40
+newline$ -- 129
+num.names$ -- 32
+pop$ -- 278
 preamble$ -- 1
-purify$ -- 4
+purify$ -- 19
 quote$ -- 0
-skip$ -- 98
+skip$ -- 429
 stack$ -- 0
-substring$ -- 50
-swap$ -- 30
-text.length$ -- 2
+substring$ -- 270
+swap$ -- 110
+text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 80
+type$ -- 424
 warning$ -- 0
-while$ -- 7
+while$ -- 28
 width$ -- 0
-write$ -- 33
+write$ -- 152

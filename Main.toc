@@ -3,27 +3,27 @@
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
 \contentsline {section}{\numberline {2}Theory}{1}{section.2}
 \contentsline {subsection}{\numberline {2.1}Oculomotor depth cues}{1}{subsection.2.1}
-\contentsline {subsubsection}{\numberline {2.1.1}Accommodation}{1}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Accommodation}{2}{subsubsection.2.1.1}
 \contentsline {subsubsection}{\numberline {2.1.2}Convergence}{2}{subsubsection.2.1.2}
 \contentsline {subsection}{\numberline {2.2}Monocular Depth cues}{2}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {2.2.1}Static cues}{2}{subsubsection.2.2.1}
-\contentsline {paragraph}{\numberline {2.2.1.1}Partial Occlusion}{2}{paragraph.2.2.1.1}
-\contentsline {paragraph}{\numberline {2.2.1.2}Relative Height}{2}{paragraph.2.2.1.2}
-\contentsline {paragraph}{\numberline {2.2.1.3}Familiar Size}{2}{paragraph.2.2.1.3}
-\contentsline {paragraph}{\numberline {2.2.1.4}Relative Size}{2}{paragraph.2.2.1.4}
-\contentsline {paragraph}{\numberline {2.2.1.5}Texture Gradients}{2}{paragraph.2.2.1.5}
-\contentsline {paragraph}{\numberline {2.2.1.6}Linear Perspective}{2}{paragraph.2.2.1.6}
-\contentsline {paragraph}{\numberline {2.2.1.7}Atmospheric Perspective}{2}{paragraph.2.2.1.7}
-\contentsline {paragraph}{\numberline {2.2.1.8}Shading}{2}{paragraph.2.2.1.8}
-\contentsline {paragraph}{\numberline {2.2.1.9}Cast shadow}{2}{paragraph.2.2.1.9}
-\contentsline {subsubsection}{\numberline {2.2.2}Dynamic cues}{2}{subsubsection.2.2.2}
-\contentsline {paragraph}{\numberline {2.2.2.1}Motion Parallax}{2}{paragraph.2.2.2.1}
-\contentsline {paragraph}{\numberline {2.2.2.2}Optic Flow}{3}{paragraph.2.2.2.2}
-\contentsline {paragraph}{\numberline {2.2.2.3}Deletion \& Accretion}{3}{paragraph.2.2.2.3}
-\contentsline {subsection}{\numberline {2.3}Stereopsis}{3}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}binocular disparity}{3}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}Stereograms}{3}{subsection.2.5}
-\contentsline {subsection}{\numberline {2.6}Autostereograms}{3}{subsection.2.6}
-\contentsline {section}{\numberline {3}Discussion}{3}{section.3}
-\contentsline {section}{\numberline {4}Conclusion}{3}{section.4}
-\contentsline {section}{References}{3}{section.4}
+\contentsline {subsubsection}{\numberline {2.2.1}Static cues}{3}{subsubsection.2.2.1}
+\contentsline {paragraph}{\numberline {2.2.1.1}Partial Occlusion}{3}{paragraph.2.2.1.1}
+\contentsline {paragraph}{\numberline {2.2.1.2}Relative Height}{3}{paragraph.2.2.1.2}
+\contentsline {paragraph}{\numberline {2.2.1.3}Familiar Size}{4}{paragraph.2.2.1.3}
+\contentsline {paragraph}{\numberline {2.2.1.4}Relative Size}{5}{paragraph.2.2.1.4}
+\contentsline {paragraph}{\numberline {2.2.1.5}Texture Gradients}{5}{paragraph.2.2.1.5}
+\contentsline {paragraph}{\numberline {2.2.1.6}Linear Perspective}{6}{paragraph.2.2.1.6}
+\contentsline {paragraph}{\numberline {2.2.1.7}Atmospheric Perspective}{6}{paragraph.2.2.1.7}
+\contentsline {paragraph}{\numberline {2.2.1.8}Shading}{7}{paragraph.2.2.1.8}
+\contentsline {paragraph}{\numberline {2.2.1.9}Cast shadow}{8}{paragraph.2.2.1.9}
+\contentsline {subsubsection}{\numberline {2.2.2}Dynamic cues}{8}{subsubsection.2.2.2}
+\contentsline {paragraph}{\numberline {2.2.2.1}Motion Parallax}{8}{paragraph.2.2.2.1}
+\contentsline {paragraph}{\numberline {2.2.2.2}Optic Flow}{9}{paragraph.2.2.2.2}
+\contentsline {paragraph}{\numberline {2.2.2.3}Deletion \& Accretion}{9}{paragraph.2.2.2.3}
+\contentsline {subsection}{\numberline {2.3}Stereopsis}{10}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}binocular disparity}{10}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Stereograms}{10}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Autostereograms}{10}{subsection.2.6}
+\contentsline {section}{\numberline {3}Discussion}{10}{section.3}
+\contentsline {section}{\numberline {4}Conclusion}{10}{section.4}
+\contentsline {section}{References}{10}{section.4}
